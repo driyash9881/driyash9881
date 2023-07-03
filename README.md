@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding/learning
 - 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...basic of python
-- 📫 How to reach me ...
+- 📫 How to reach me ...ptpumba@gmail.com
 
 <!---
 driyash9881/driyash9881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
