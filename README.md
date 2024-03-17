@@ -1,7 +1,5 @@
 - 👋 Hi, I’m driyu
 - 👀 I’m interested in ... coding/learning
-- 🌱 I’m currently learning ...dsa
-- 💞️ I’m looking to collaborate on ...basic of python
 - 📫 How to reach me ...ptpumba@gmail.com
 - connect with me on my linkedIn Account: www.linkedin.com/in/priyatiwariwebdeveloper
 
