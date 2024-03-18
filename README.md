@@ -1,4 +1,4 @@
-- 👋 Hi, I’m driyu
+- 👋 Hi, I’m priya
 - 👀 I’m interested in ... coding/learning
 - 📫 How to reach me ...ptpumba@gmail.com
 - connect with me on my linkedIn Account: www.linkedin.com/in/priyatiwariwebdeveloper
