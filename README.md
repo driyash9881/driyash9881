@@ -10,4 +10,3 @@ Let's connect and create something remarkable together!
 [![GSSoC 2024 Contributor](https://img.shields.io/badge/GSSoC_2024-Contributor-brightgreen)]
 
 
-https://i.pinimg.com/564x/87/38/1e/87381ecd03353144253a0d05c49b18e4.jpg
