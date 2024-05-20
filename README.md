@@ -1,7 +1,6 @@
 - 👋 Hi, I’m priya
-- 👀 I’m interested in ... coding/learning
-- 📫 How to reach me ...ptpumba@gmail.com
-- connect with me on my linkedIn Account: www.linkedin.com/in/priyaweb
+I'm Priya, a dedicated frontend developer with a passion for crafting innovative solutions. My journey in web development has been driven by a series of exciting projects, each contributing to my growth and expertise.
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/huhpriya?style=social)](https://twitter.com/huhpriya)
 
