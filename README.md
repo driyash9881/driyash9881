@@ -12,5 +12,5 @@ Let's connect and create something remarkable together!
 ## GitHub Stats
 
 ### GitHub Profile Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?driyash9881&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=driyash9881&show_icons=true&theme=radical)
 
