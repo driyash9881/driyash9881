@@ -14,3 +14,8 @@ Let's connect and create something remarkable together!
 ### GitHub Profile Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=driyash9881&show_icons=true&theme=radical)
 
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=driyash9881&layout=compact&theme=radical)
+
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=driyash9881&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
