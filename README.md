@@ -1,8 +1,15 @@
-👋 Hi, I'm Priya, a dedicated frontend developer with a passion for crafting innovative solutions.
+## About Me
 
-- My journey in web development has been driven by a series of exciting projects, each contributing to my growth and expertise.
+<div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 10px;">
+  <div style="border: 2px solid #2196F3; padding: 20px; border-radius: 10px; background-color: #f9f9f9;">
+    Hi, I'm Priya, a dedicated frontend developer with a passion for crafting innovative solutions.
 
-- As a quick learner, I'm confident in my ability to adapt and thrive in new environments, delivering top-notch results every step of the way.
+    My journey in web development has been driven by a series of exciting projects, each contributing to my growth and expertise.
+
+    As a quick learner, I'm confident in my ability to adapt and thrive in new environments, delivering top-notch results every step of the way.
+  </div>
+</div>
+
 
 
 # Let's connect and create something remarkable together!
